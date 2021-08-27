@@ -1,0 +1,15 @@
+1ST DAY
+----------------------------
+1. Basic IT Industry Architecture (Envirnments)
+2. Layers for OS
+3. Shortcuts of CMD & Chrome
+4. most common OS 
+-----------------------------
+4. What is Version control tool?
+5. What is difference between centralized and distributed VCS?
+6. SVN Vs Git
+7. Creation of Github account and link with git cli?
+8. What is GUI ? (Graphical user interface)
+9. List of git commands
+10. Difference between Git Clone and Download
+11. Creation of Repository with GUI (GitHub) & With Cli by Git Init
